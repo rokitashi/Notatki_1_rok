@@ -1,0 +1,129 @@
+Drukowaie - wielokrotne przenoszenie obrazu na podłoże (np. papier)
+
+Techniki analogowe  - użycie farb
+Techniki cyfrowe    - obraz zapisany w pamięci komputera, reprodukcja na papierze przy uzyciu tonerów itp.
+
+Poligrafia ma podział na 3 działy
+    - prepress
+    - press (actually drukowanie)
+    - postpress
+
+Pisma pierwotne - wyrazowe,kipu (węzełkowe), paciorkowe, karby (nacięcia na drewnie)
+
+Piktogram, pismo piktograficzne - przedstawianie wyrazów obrazkami
+
+Kierunkiem pisania najpierw było góra-dół, potem wyewolułowało lewo-prawo
+
+Pismo wyrazowe - ideograficzne (wyrażające myśli)
+Ideogram - graficzny element wyrażający myśl lub pojęcie
+
+Pismo fenickie - 22 znaki dla spółgłosek (jedna z dwóch odnóg wykształciła cyrilicę)
+
+Braille - opracowany w 1825r przez Ludwika Braille'a    //powiedziała, że może nas to interesować, może ważne
+
+Biblia Gutenberga - 1 dzieło wydruokwane przez Jana Gutenberga, 42-wierszowa, dwułamowa, czcionka gotycka   //ważne!
+
+Jan Gutenberg wynalazł
+    - urządzenie do odlewania czcionek
+    - ruchome czcionki
+    - prasa do wyciskania oliwy z oliwek
+
+Manutius - kursywa
+Hieonim Wietor - polski drukarz, pierwsze drukarnie powstają w krakowie za jego sprawą
+    polska jako pierwszy drukujący kraj słowiański
+
+Jan Rossowski z poznania postawił pierwszą drukarnię w warszawie
+
+Stop czcionkowy
+    - ołów
+    - antymon
+    - cyna
+    - miedź
+
+Patryca - model pierwowzory, uzywany do tłoczenia matrycy
+Matryca - odlew, odwrócona forma czcionki używana potem do odlewania czcionek drukarskich
+
+Skład ręczny (gorący) - ręczne układanie czcionek na szufli i kaszcie
+
+Prasa drukarska
+    - wykonuje odbitkę
+    - nakłada się papier, farbę, czcionki, przycisnąć i mamy wydruk :)
+
+David Bruce     - wymyślił urządzenie do odlewania czcionek (automatyzacja)
+Fryderyk Koenig - wałki nanoszące farby, maszyna tłocząca papier (samonakładacz papieru)
+August Applegat - maszyna rotacyjna
+
+Rodzaje składu tekstu
+    - ręczny
+    - maszynowy
+        - linotyp (prosty)
+        - monotyp (bardziej złożony, więcej odmian)
+    - fotoskład
+    - komputerowy
+
+System miar typograficznych
+    - system Fourniera oparty na stopie Francuskiej
+    - American Point system - 1 pica = 1/6"
+    - system pica - 1 pica = ~0,353mm (1/2660m)
+
+Materiał zecerski
+    - z oczkiem (z powierzchnią drukującą, fonty literki)
+    - bez oczka (wypełnienia typu firet, spacja)
+
+Fotoskład - skład tworzony w ten sposób aby można było potem naświetlić (jak w fotografii)
+
+Komputerowy - skład za pomocą programów (InDesign, Qaurk, PS, Ilustrator)
+
+DTP - desktop publishing
+
+Format - wymiar produktu i przestrzenii
+Arkusz - wytwór uformowany w kształcie prostokąta
+Łam    - część lub cała kolumna
+
+Maszynopis autorski     - wydrukowany przez autora tekst dzieła
+
+Formaty książek
+    - surowy        - przed obcięciem
+    - kwadratowy    - największe straty materiału
+    - prostokątny   - francuski (nasz)
+    - podłużny      - włoski
+
+
+Fotografia barwna
+    - metody wywołania barwotwórczego
+    - materiał Kodakchrome
+    - warstwa światłoczuła zrobiona z 3 warstw, każda czuła na inną falę
+    - trzy warstwy mat. srebrowego
+    - wywołwane specjalnymi barwnikami
+    - metaliczne srebro usuwane w pocesie wybielania i utrwalania
+
+    proces:
+        - naświetlenie              - powstaje obraz utajony
+        - wywoływanie               - redukcja naświetlonych halogenków do metalicznego srebra
+        - drugi etap wywoływania    - wokół ziaren srebra pojawiają się barwniki
+        - wybielanie i utrwalanie   - usunięcie ziaren srebra, postaje kolor
+
+Widzenie
+    - dzienne
+    - nocne
+    - zmrokowe
+
+Metoda addetywna        - RGB
+Metoda subtraktywna     - CMYK
+
+Barwa
+    - atrybuty      - jasność, oddcień, nasycenie
+    - barwy achromatyczne
+    - barwy chromatyczne
+    - barwy monochromatyczne
+
+Pomiar barw:
+    - kolorymetry (dawniej)
+    - spektrofotometry
+        iluminant (rodzaj oświetlenia) np A, D (D50, D65)
+        geometrie pomiarowe (0/45deg, 45/0 deg) (pada pod kątem 0 do normalnej(płaskiej) i odbija się pod kątem 45)
+
+deltaE - liczona na podstawie współrzędnych barwy, różnica między dwiema barwami
+wzór = sqrt((delta L)^2 + (delta a)^2 + (delta b)^2)
+
+Densytometr - pomiar gęstości optycznej

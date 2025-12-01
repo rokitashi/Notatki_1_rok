@@ -1,0 +1,183 @@
+Autorem notatek jest Bartek Rokita
+
+Prowadzący: wielu
+
+Kolokwium z 6 części tematycznych, do każdej części 3 pytania => 4 pytania na kolokwium losowo z 6 części
+
+Raczej nie będzie kosa
+
+Prezentacje wysyłane (ale nie ma tam tekstu, trzeba słuchać)
+
+
+==============================================================================================================================================================================================
+
+Odlewnictwo
+
+dr inż. Robert Biernacki
+
+cz.w. - części wagowe
+
+Zjawiska jakie występują w odlewie (Krzepnięcie metalu w formie itp)
+    wrzystko zmierza do tego, żeby wytrorzyć wnękę (formę), do której wlewamy metal aby sobie zastygł
+    forma odlewnicza - całość albo zbiór elementów do których wlewa się płynny metal (zrobiona z metali czy piaskowe - jednorazowe)
+
+Skurcz metalu objawiający się jamą skurczową (dziura w odlewie, np kulista albo fasolka, dyskwalifikuje wyrób)
+    (na czym polega zasilanie odlewu też się tego tyczy)
+
+Od składu chemicznego zależy lejność metalu, skurcz, temperatura zalewania
+
+Gąska odlewnicza - atestowany metal którego znamy skład
+
+Krzepnięcie jest ważne - ma krzepnąć równomiernie i w danym kierunku
+    w miejscu odlewu w którym metal zakrzepnie na końcu, zazwczaj powstaje jama skórczowa (często w środku obiektu, ale czasem w miejscu wlewu metalu - układu wlewowego)
+
+Elementy wlewu
+    wlew główny             - doprowadza metal do formy
+    wlew rozprowadzający    - doprowadza metal do wlewów doprowadzających
+    wlewy doprowadzające    -
+
+Nadlew podowuje wyeliminowanie jamy skurczowej w odlewie
+    nadlew jest największym elementem, aby tam metal zastygł ostatni (dłużej trzyma ciepło, wystarcza tylko na jakiś fragment, ma zasięg działania)
+
+Zasilanie odlewu
+    nadlew zasila odlew - bedzie zasilał obszary wcześniej krzepnące, doprowadzał jeszcze ciekły metal do reszty odlewu tak, aby nadlew zakrzepł jako ostatni
+
+Skurcz
+    Stopy aluminium ok. 2%, temp ok. 800deg C     - dodaje się krzemu np. 9% (poprawia lejność i wytrzymałość, plastyczne - mało krzemu, odlewanie - dużo krzemu), po dodaniu magnezu czy tytanu - dural
+    Żeliwo szare ok. 1%, temp ok. 1400deg C       - żelazo + węgiel >2%, tłumi drgania, dobre na włazy kanalizacyjne, tanie, krzepnie objętościowo
+    Żeliwo sferoidalne ok. 2%
+    Staliwo ok. 5%, ok 1600deg C                  - żelazo + węgiel <2%, dużo wytrzymalsze, , krzepnie kierunkowo
+    Brąz ok. 4%
+
+    Stal - poddane obróbce plastycznej, staliwo to odlew, duża wytrzymałość wielokrotnie większa
+
+Formy jednorazowe - formy piaskowe z bentonitowej masy formierskiej (syntetyczne)
+    bentonit - glina montmorylinitowa (wietrzenie skał wulkanicznych itp), nie potrzebuje dużo wody żeby wiązać
+    formowanie na wilgotno
+    skład - 100 cz.w. piasku, 10 cz.w. bentonitu 3 cz.w. wody (dążymy do wilgotności 3%) + ewentualny dodatek pyłu węglowego
+
+    Właściwości masy formierskiej
+        wytrzymałość
+        przepuszczalność (gazów)
+        płynność
+        wilgotność (od niej zależą wszystkie właściwości)
+
+        po wynonaiu odlewów masę wykorzystujemy powtórnie, jest to masa zwrotna/obiegowa
+
+        badamy te właściwości aby uzyskać masę zdolną do formowania
+
+
+        W formie piaskowej uzyskujemy odlewy o chropowatości ok. 40 micrometrów, grubość ścianki min. 5mm
+
+Model dzielimy według płaszczyzny podziału
+
+Do odtwarzania powierzchni wewnętrznych odlewu, stosujemy rdzenie (kloc z wymiarem)
+    rdzeń wykonany z innej masy bo musi mieć podatność, wybijalność i większą odporność temperaturową
+
+Formy trwałe
+
+    Kokile w formie ciśnieniowej
+        kokila - forma metalowa stalowa ręcznie zalewana grawitacyjnie, odlewamy metal o niższej temp. topnienia (alu np.)
+        najczęściej metal wprowadzamy z dołu lub z boku
+        na wnękę kokilii nakłada się pokrycie (chroni wnękę i reguluje szybkość odbierania ciepła)
+
+Metoda wytapianych modeli:  (duża dokładność)
+    1 etap - wytworzenie jednorazowego modelu, wytopienie go
+    2 etap - zestaw modelowy, wlew główny pełni rolę nadlewu i zasilania, no i wlewu, dołączamy jak najwięcej form
+    3 etap - nakładanie formy ceramicznej (zanurzanie i obsypanie) - powstaje forma samonośna
+    4 etap - usuwanie modelu z formy
+    5 etap - wyżarzanie formy ceramicznej (formy się wypalają)
+    6 etap - zalewanie form metalem
+    7 etap - wybijanie odlewu z formy
+
+
+
+Procesy obróbki plastycznej metali
+
+dr hab. inż Anna Dziubińska
+
+
+Wszystkie metale posiadają budowę krystaliczną
+
+Sieć krystaliczna - układ atomów które mają ściśle ustalone wzjamene odległości i kierunki
+
+Wyróżniamy 3 sieci
+    - regularna płasko centrowana (A1)
+    - regularna przestrzennie centrowana (A2)
+    - heksaonalna (A3)
+
+Mechanizm odkształceń plastycznych
+    poślizg                 - po przekroczeniu określonego obciążenia kryształ dzieli się na szereg warstw
+    bliźniakowanie          - obrót sieci przestrzennej części kryształu
+    umocnienie              - wzrost wartości naprężeń uplastyczniających wywołany odkształceniami
+    zmiana struktury        - ziarna ulegają odkształceniu po walcowaniu, układają się w kierunku największego wydłużenia (kierunku walcowania)
+    energia zmagazynowana   -
+    rekrystalizacja         - powoduje zmiany strukturalne, wynikiem jest utworzenie nowych ziaren
+
+Podział procesów
+    obróbka plastyczna      - zmiana kształtu i własności materiału na wynik działania sił
+        na zimno
+        na ciepło
+        na gorąco
+        ze stanu półpłynnego
+        postaciowe
+        objętościowe
+
+    metody kształtowania
+        bez naruszenia spójności (np. gięcie)
+        z naruszeniem spójności (np. cięcie)
+
+    procesy kształtowania blach
+        wyginanie
+        zaginaine
+        zwijanie
+        owijanie
+        gięcie na zaginarkach
+        zwijanie
+        metodami wytłaczania (sztywne narzęcia, hydrauliczne zewnętrzne i wwewnętrzne, wybuchowe i elektromagnetyczne)
+
+    Cięcie                  - całkowite lub częściowe oddzielenie jednej części od drugiej
+        mechaniczne
+        gazowe
+        laserowe
+        wodą pod ciśnieniem
+
+    Gięcie
+        najczęściej się go wykorzystuje
+        materiał zewnętrzny rozciągany, wewnętrzny ściskany
+        własności wyrobów: zmiany kształtu przekroju poprzecznego
+        wady: lokalne bruzdy (wgłebienia), esowaty kształt ramienia zagiętego, uszkodzenie powierzchni w miejscu gięcia, pęknięcie blachy, wgniecenie stępla w blachę
+        blachy wyginają wyginaki
+
+    Wytłaczanie
+        tworzenie wytłoczek
+        ogranicznia
+            zrywanie
+            fałdowanie
+        można zastosować dodatkową operację - przetłaczanie
+            zmniejszamy średnicę wytłoczki zwiększając jej średnicę
+            ogranicznia: fałdowanie, pękanie
+
+    Wyoblanie
+        zaginanie przy dużej prędkości, trochę jak toczenie
+
+    Zgniatanie obrotowe
+
+
+Zakres temperatur obróbki plastycznej ograniczony jest odgównie utlenieniem, uwęgleniem i czymś jeszcze
+
+Objętość w obróbce objętościowej pozostaje taka sama
+
+Wyróżniamy 3 stale
+    - niestopowe
+    - stopowe
+    - kwasoodporne
+
+Operacje wykończeniowe
+    rozpychanie
+
+Operacje kłucia
+    wydłużanie
+    uderzanie
+    rozszerzanie
+    zgrzewanie
