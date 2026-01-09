@@ -407,3 +407,37 @@ Rodzaje decyzji
     programowalne i nie                         - oparte na procedurach, intuicji i doświadczeniu
     w warunakch pewności, ryzyka i niepewności  - ze względu na stopień ryzyka
     indywidualne i zespołowe                    - ze względu na liczbę uczestników
+
+Rodzaje centrów odpowiedzialności
+    kosztów     - poziom ponoszonych kosztów z zachowaniem jakości
+    przychodów  - utrzymanie przychodów, nie kontroluje kosztów
+    zysku       - odpowiada za wynik finansowy
+    inwestycji  - odpowiada za rentowności
+
+ROI - zwrot z inwestycji
+
+Rodzaje budżetów
+    według zakresu: operacyjne, finansowe, inwestycyjne
+    według horyzontu: krótkookresowe, roczne, wieloletnie
+    według techniki: tradycyjne, przyrostowe, zadaniowe, ZBB, rolling budget
+    wedługg elastyczności: budżet sztywny i elastyczny
+
+Style budżetowania
+    top-down    - decyzje zapadają na górze, szybkie, mało precyzyjne
+    bottom-up   - budżety tworzą działy, większa akceptacja i dokładność
+    mieszane    - najpopularniejsze, łączy ramy strategiczne i wiedzę operacyjną
+
+Kultuy organizacyjne (4)
+    - kultura klanu         - współpraca
+    - kultura rynku         - stabilny, zorientowany na cele, koncentracja na klienta,
+    - kultura hierarchii    - władza, struktura, procedury, jasne zasady, duża stabilizacja
+    - kultura adhokracji    - duża elastyczność, dynamiczna, innowacje kreatywność i eksperyment, startupy i laboratoria
+
+Trzy poziomy kultury organizacyjnej wg Scheina
+    - artefakty                 - widoczne zachowania, symbole
+    - wartości deklarowane      - to, co firma mówi, że jest ważne
+    - założenia podstawowe      - nieświadome przekonania (najgłębszy poziom)
+
+Bezpieczeństwo psychologiczne - bezpieczeństwo, że osoba może zadawać pytania i wyrażać opinie bez obawy o ośmieszenie lub karę
+
+Heurystyki - skróty myślowe, uproszczone strategie myślenia. pomocne ale mogą prowadzić do błędów poznawczych

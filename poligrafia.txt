@@ -127,3 +127,101 @@ deltaE - liczona na podstawie współrzędnych barwy, różnica między dwiema b
 wzór = sqrt((delta L)^2 + (delta a)^2 + (delta b)^2)
 
 Densytometr - pomiar gęstości optycznej
+
+Druk płaski
+    - litograficzne
+    - offsetowe
+    - światłodrukowe
+
+Rodzaje form offsetowych
+    - do drukowania z nawilżeniem
+    - do drukowania bez nawilżenia
+
+CTP - computer to plate (rodzaj formy drukowej)
+
+Etapy wykonywania presensybilizowanych form offsetowych
+    naswietlanie
+    wywoływanie
+    płukanie
+    hydrofilizacja
+    zagumowanie
+    termiczne hartowanie (ok. 230deg C)
+
+Formy wklęsłodrukowe
+    - głębokościowo zmienne                                 (zmienia się głębokość kałamarzyka)
+    - powierzchniowo zmienne - atopijne                     (zmienia się powierzchnia kałamarzyka)
+    - głębokościowo-powierzchniowo zmienne - półatopijne
+
+Metody wykonywania form wklęsłych
+    - pośrednie
+    - bezpośredine
+    - chemiczne
+
+Rodzaje fleksodrukowych płut fotopolimerowych
+    - z warstwą fotoutwardzalną
+    - z warstwą do grawerowania
+    - do wykonywania tulei formowych
+    - na podłożu poliestrowym
+    - na podłożu aluminiowym
+    - na podłożu stalowym
+    - laminat wielowarstwowy
+
+Skład warstw fotopolimerowych
+    - elastyczne związki makrocząsteczkowe
+    - substancje sieciujące
+    - substancje wypełniające
+    - fotoinicjatory
+    - plastyfikatowy
+    - stabilizatory
+    - barwniki
+
+Etapy wykonywania fleksodrukowych płyt fotopolimerowych
+    - naświetlenie wstępne od strony podłóża
+    - naświetlenie właściwe od strony użytkowej przez negatyw
+    - wymywanie elementów nienaświetlonych
+    - suszenie
+    - doświetlenie UVA (ok. 350-390nm)
+    - usnięcie kleistości powierzchni (np. doświetlenie UVC ok. 254nm)
+
+Ziarnowanie powierzchni - stosuje się po to aby zwiększyć wytrzymałość formy, zwiększyć przyczepność warstwy (zwiększenie adhezji)
+Rotograwiura - wklęsłe formy drukowe, elementy drukujące są poniżej niedrukujących, powierzchnia wykonana z kałamarzyków
+Koszulka Ballarda - warstwa miedzi na (czymś)
+Artystyczne odmiany wklęsłodruku - heliogradura, kwasoryt, miedzioryt, staloryt
+Fleksograficzne formy - często transparentne, elastyczne
+Tuleje formowe - tuleje na które nakładamy formy drukowe (najczęściej rozprężne)
+Po co naświetla się fleksograficzne formy od podłoża? - żeby zwiększyć przyczepność (adhezję), było wyżej
+
+Cylindry w maszynie drukującej
+    - formowy
+    - pośredni
+    - dociskowy
+
+Uszlachetnianie -
+
+Maszyny CTPress - wiele cylindrów formowych i pośrednich, jeden dociskowy
+
+Kontrola jakości druku
+    - pomiary densometryczne i spektrofotometryczne
+    - paski kontrolne
+    - pasowanie
+    - dublowanie i murzenie
+    - dot gain  - przyrost pokrycia rastrowego
+    - tapping   - przyjmowanie farby przez farbę
+
+Zespół farbowy we fleksografii (od dołu jakby)
+    - 1 kałamarz drukowy
+    - 2 walec rastrowy
+    - 3 rakiel (nóż zgarniający)
+    - 4 cylinger formowy
+    - 5 cylinder dociskowy
+    - 6 podłoże
+
+Zespół farbowy we wklęsłodruku
+    - 1 kałamarz farbowy
+    - 2 forma drukowa
+    - 3 rakiel
+    - 4 cylinder dociskowy
+    - 5 rolki prowadzące papier
+    - 6 zadrukowana wstęga
+
+

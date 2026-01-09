@@ -261,3 +261,21 @@ Równanie Younga - podstawa opisu zjawisk zwilżania zachodzących na powierzchn
 
 Dwie różne składowe w metodzie owensa-wendta (polarną i dyspersyjną)    //ważne!
 
+Wszystkie płyny w poligrafii poza wodą i rozpuszczalnikiem są nienewtonowskie //ważne!
+
+Tiksotropia - zmiana lepkości w zależności od róznych szybkości ścinania (zmiana lepkości w czasie)
+
+Lepkosprężystość - jednocześnie właściwości lepkie i sprężyste
+
+Im szybsze mieszanie tym mniejsza lepkość (ciecz stawia większy opór)
+
+Efekt Weissenberga - ciecz wchodzi na mieszadło
+
+Lepkość a drukowność:
+     maleje gdy rośnie temperatura (jak te wszystkie wałki pracują itp)
+    Lepkość wpływa na proces płynęcia w jednostce drukującej
+    Reologia i tiksotropia wpływają na drukowanie i jakość druku
+    Reologia farby powinna być zbliżona do reologii płynu newtonowskiego
+
+    Za mała lepkość - może powstać efekt motlingu, nieregularności
+    Za duża lepkość - farba nie nakłada się dobrze
