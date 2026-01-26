@@ -9,6 +9,10 @@ nazwa algrafia wywodzi się od słów graphe - rysowanie z greckiego i al od alu
 
  algrafię wynalazł Joseph Scholz w Moguncji, zachodnie niemcy, w roku 1892.
 
+genezą powstania algrafii jest zapotrzebowanie na kamień w litografii. kamienie były drogie i słabo dostępne
+więc artyści szukali innego rozwiązania. na początku stawiano na cynk (z tego powstała cynkografia) a potem
+Scholz wypróbował aluminium
+
  na początku algrafia używana była m.in. do produkcji map, głównie dlatego, że była bardziej precyzyjna niż np. litografia
 
  dalej ewoluowała w kierunku artystycznej techniki, gdy zaczęły ją wypierać inne metody.
