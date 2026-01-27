@@ -332,3 +332,15 @@ Metody:
 
     Polerowanie mechaniczne: polerowanie powierzchni tarczą filcową z użyciem pasty ściernej
 
+	Obróbka elektromagnetyczna (EDM): prąd elektryczny poprzez wyładowania obrabia przedmiot. przedmiot zanurzony w dielektryku (substancji co nie przewodzi prądu)
+		do trudno obrabialnych (trwałych) materiałów, można tworzyć cienkie i skomplikowane przedmioty
+
+	Obróbka elektrochemiczna (ECM): niewielkie napięcie
+
+Ruch główny vc i posuwny f podczas
+	toczenia wzdłużnego
+	frezowania obwodowego
+	dłutowania
+	wiercenia
+
+
